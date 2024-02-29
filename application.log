@@ -1,0 +1,312 @@
+2024-02-21T14:12:00.924+05:30  INFO 18384 --- [main] c.p.a.controller.ActorControllerTest     : Starting ActorControllerTest using Java 17.0.1 with PID 18384 (started by 1925575 in C:\Users\1925575\Documents\actor\actor)
+2024-02-21T14:12:00.941+05:30  INFO 18384 --- [main] c.p.a.controller.ActorControllerTest     : No active profile set, falling back to 1 default profile: "default"
+2024-02-21T14:12:03.846+05:30  INFO 18384 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2024-02-21T14:12:03.847+05:30  INFO 18384 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2024-02-21T14:12:03.850+05:30  INFO 18384 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 3 ms
+2024-02-21T14:12:03.902+05:30  INFO 18384 --- [main] c.p.a.controller.ActorControllerTest     : Started ActorControllerTest in 3.8 seconds (process running for 7.43)
+2024-02-21T14:12:47.897+05:30  INFO 9324 --- [main] c.p.a.controller.ActorControllerTest     : Starting ActorControllerTest using Java 17.0.1 with PID 9324 (started by 1925575 in C:\Users\1925575\Documents\actor\actor)
+2024-02-21T14:12:47.900+05:30  INFO 9324 --- [main] c.p.a.controller.ActorControllerTest     : No active profile set, falling back to 1 default profile: "default"
+2024-02-21T14:12:50.478+05:30  INFO 9324 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2024-02-21T14:12:50.479+05:30  INFO 9324 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2024-02-21T14:12:50.481+05:30  INFO 9324 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 2 ms
+2024-02-21T14:12:50.532+05:30  INFO 9324 --- [main] c.p.a.controller.ActorControllerTest     : Started ActorControllerTest in 3.362 seconds (process running for 6.667)
+2024-02-21T14:13:13.835+05:30  INFO 18888 --- [main] c.p.a.controller.ActorControllerTest     : Starting ActorControllerTest using Java 17.0.1 with PID 18888 (started by 1925575 in C:\Users\1925575\Documents\actor\actor)
+2024-02-21T14:13:13.839+05:30  INFO 18888 --- [main] c.p.a.controller.ActorControllerTest     : No active profile set, falling back to 1 default profile: "default"
+2024-02-21T14:13:16.499+05:30  INFO 18888 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2024-02-21T14:13:16.500+05:30  INFO 18888 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2024-02-21T14:13:16.502+05:30  INFO 18888 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 2 ms
+2024-02-21T14:13:16.548+05:30  INFO 18888 --- [main] c.p.a.controller.ActorControllerTest     : Started ActorControllerTest in 3.432 seconds (process running for 6.606)
+2024-02-21T14:14:20.245+05:30  INFO 16484 --- [main] c.p.a.controller.ActorControllerTest     : Starting ActorControllerTest using Java 17.0.1 with PID 16484 (started by 1925575 in C:\Users\1925575\Documents\actor\actor)
+2024-02-21T14:14:20.250+05:30  INFO 16484 --- [main] c.p.a.controller.ActorControllerTest     : No active profile set, falling back to 1 default profile: "default"
+2024-02-21T14:14:23.034+05:30  INFO 16484 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2024-02-21T14:14:23.035+05:30  INFO 16484 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2024-02-21T14:14:23.039+05:30  INFO 16484 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 4 ms
+2024-02-21T14:14:23.101+05:30  INFO 16484 --- [main] c.p.a.controller.ActorControllerTest     : Started ActorControllerTest in 3.568 seconds (process running for 6.771)
+2024-02-21T14:14:46.609+05:30  INFO 18384 --- [main] c.p.a.controller.ActorControllerTest     : Starting ActorControllerTest using Java 17.0.1 with PID 18384 (started by 1925575 in C:\Users\1925575\Documents\actor\actor)
+2024-02-21T14:14:46.612+05:30  INFO 18384 --- [main] c.p.a.controller.ActorControllerTest     : No active profile set, falling back to 1 default profile: "default"
+2024-02-21T14:14:49.156+05:30  INFO 18384 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2024-02-21T14:14:49.157+05:30  INFO 18384 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2024-02-21T14:14:49.159+05:30  INFO 18384 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 2 ms
+2024-02-21T14:14:49.210+05:30  INFO 18384 --- [main] c.p.a.controller.ActorControllerTest     : Started ActorControllerTest in 3.307 seconds (process running for 6.469)
+2024-02-21T14:15:09.756+05:30  INFO 15144 --- [main] c.p.a.controller.ActorControllerTest     : Starting ActorControllerTest using Java 17.0.1 with PID 15144 (started by 1925575 in C:\Users\1925575\Documents\actor\actor)
+2024-02-21T14:15:09.758+05:30  INFO 15144 --- [main] c.p.a.controller.ActorControllerTest     : No active profile set, falling back to 1 default profile: "default"
+2024-02-21T14:15:12.384+05:30  INFO 15144 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2024-02-21T14:15:12.385+05:30  INFO 15144 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2024-02-21T14:15:12.388+05:30  INFO 15144 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 3 ms
+2024-02-21T14:15:12.436+05:30  INFO 15144 --- [main] c.p.a.controller.ActorControllerTest     : Started ActorControllerTest in 3.372 seconds (process running for 6.698)
+2024-02-21T14:16:52.625+05:30  INFO 2044 --- [main] c.p.a.controller.ActorControllerTest     : Starting ActorControllerTest using Java 17.0.1 with PID 2044 (started by 1925575 in C:\Users\1925575\Documents\actor\actor)
+2024-02-21T14:16:52.629+05:30  INFO 2044 --- [main] c.p.a.controller.ActorControllerTest     : No active profile set, falling back to 1 default profile: "default"
+2024-02-21T14:16:55.159+05:30  INFO 2044 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2024-02-21T14:16:55.160+05:30  INFO 2044 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2024-02-21T14:16:55.162+05:30  INFO 2044 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 2 ms
+2024-02-21T14:16:55.220+05:30  INFO 2044 --- [main] c.p.a.controller.ActorControllerTest     : Started ActorControllerTest in 3.304 seconds (process running for 6.527)
+2024-02-21T14:17:10.574+05:30  INFO 2388 --- [main] c.p.a.controller.ActorControllerTest     : Starting ActorControllerTest using Java 17.0.1 with PID 2388 (started by 1925575 in C:\Users\1925575\Documents\actor\actor)
+2024-02-21T14:17:10.578+05:30  INFO 2388 --- [main] c.p.a.controller.ActorControllerTest     : No active profile set, falling back to 1 default profile: "default"
+2024-02-21T14:17:13.212+05:30  INFO 2388 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2024-02-21T14:17:13.212+05:30  INFO 2388 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2024-02-21T14:17:13.215+05:30  INFO 2388 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 3 ms
+2024-02-21T14:17:13.258+05:30  INFO 2388 --- [main] c.p.a.controller.ActorControllerTest     : Started ActorControllerTest in 3.352 seconds (process running for 6.656)
+2024-02-21T14:17:35.647+05:30  INFO 18468 --- [main] c.p.a.controller.ActorControllerTest     : Starting ActorControllerTest using Java 17.0.1 with PID 18468 (started by 1925575 in C:\Users\1925575\Documents\actor\actor)
+2024-02-21T14:17:35.651+05:30  INFO 18468 --- [main] c.p.a.controller.ActorControllerTest     : No active profile set, falling back to 1 default profile: "default"
+2024-02-21T14:17:38.204+05:30  INFO 18468 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2024-02-21T14:17:38.206+05:30  INFO 18468 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2024-02-21T14:17:38.208+05:30  INFO 18468 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 2 ms
+2024-02-21T14:17:38.252+05:30  INFO 18468 --- [main] c.p.a.controller.ActorControllerTest     : Started ActorControllerTest in 3.32 seconds (process running for 6.65)
+2024-02-21T14:18:38.840+05:30  INFO 5628 --- [main] c.p.a.controller.ActorControllerTest     : Starting ActorControllerTest using Java 17.0.1 with PID 5628 (started by 1925575 in C:\Users\1925575\Documents\actor\actor)
+2024-02-21T14:18:38.844+05:30  INFO 5628 --- [main] c.p.a.controller.ActorControllerTest     : No active profile set, falling back to 1 default profile: "default"
+2024-02-21T14:18:41.437+05:30  INFO 5628 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2024-02-21T14:18:41.437+05:30  INFO 5628 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2024-02-21T14:18:41.440+05:30  INFO 5628 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 2 ms
+2024-02-21T14:18:41.485+05:30  INFO 5628 --- [main] c.p.a.controller.ActorControllerTest     : Started ActorControllerTest in 3.332 seconds (process running for 6.543)
+2024-02-21T17:12:16.153+05:30  INFO 18508 --- [restartedMain] com.poc.actor.ActorApplication           : Starting ActorApplication using Java 17.0.1 with PID 18508 (C:\Users\1925575\Documents\actor\actor\target\classes started by 1925575 in C:\Users\1925575\Documents\actor\actor)
+2024-02-21T17:12:16.155+05:30  INFO 18508 --- [restartedMain] com.poc.actor.ActorApplication           : No active profile set, falling back to 1 default profile: "default"
+2024-02-21T17:12:16.190+05:30  INFO 18508 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-02-21T17:12:16.190+05:30  INFO 18508 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-02-21T17:12:16.905+05:30  INFO 18508 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-02-21T17:12:16.969+05:30  INFO 18508 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 53 ms. Found 2 JPA repository interfaces.
+2024-02-21T17:12:17.517+05:30  INFO 18508 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8086 (http)
+2024-02-21T17:12:17.527+05:30  INFO 18508 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-02-21T17:12:17.528+05:30  INFO 18508 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.17]
+2024-02-21T17:12:17.587+05:30  INFO 18508 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-02-21T17:12:17.587+05:30  INFO 18508 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1397 ms
+2024-02-21T17:12:17.610+05:30  INFO 18508 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2024-02-21T17:12:17.791+05:30  INFO 18508 --- [restartedMain] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection conn0: url=jdbc:h2:mem:xplab-poc user=SA
+2024-02-21T17:12:17.792+05:30  INFO 18508 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2024-02-21T17:12:17.802+05:30  INFO 18508 --- [restartedMain] o.s.b.a.h2.H2ConsoleAutoConfiguration    : H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:xplab-poc'
+2024-02-21T17:12:17.911+05:30  INFO 18508 --- [restartedMain] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-02-21T17:12:17.974+05:30  INFO 18508 --- [restartedMain] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 6.4.1.Final
+2024-02-21T17:12:18.008+05:30  INFO 18508 --- [restartedMain] o.h.c.internal.RegionFactoryInitiator    : HHH000026: Second-level cache disabled
+2024-02-21T17:12:18.218+05:30  INFO 18508 --- [restartedMain] o.s.o.j.p.SpringPersistenceUnitInfo      : No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-02-21T17:12:19.141+05:30  INFO 18508 --- [restartedMain] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-02-21T17:12:19.177+05:30  INFO 18508 --- [restartedMain] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-02-21T17:12:19.399+05:30  INFO 18508 --- [restartedMain] o.s.d.j.r.query.QueryEnhancerFactory     : Hibernate is in classpath; If applicable, HQL parser will be used.
+2024-02-21T17:12:19.578+05:30  WARN 18508 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-02-21T17:12:20.597+05:30  INFO 18508 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-02-21T17:12:20.641+05:30  INFO 18508 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8086 (http) with context path ''
+2024-02-21T17:12:20.651+05:30  INFO 18508 --- [restartedMain] com.poc.actor.ActorApplication           : Started ActorApplication in 4.888 seconds (process running for 5.695)
+2024-02-21T17:12:28.743+05:30  INFO 18508 --- [http-nio-8086-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-02-21T17:12:28.743+05:30  INFO 18508 --- [http-nio-8086-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-02-21T17:12:28.744+05:30  INFO 18508 --- [http-nio-8086-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2024-02-21T17:12:28.785+05:30  INFO 18508 --- [http-nio-8086-exec-1] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside getActorList() ---------------->
+2024-02-21T17:12:28.860+05:30  INFO 18508 --- [http-nio-8086-exec-1] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside saveActor() ----------------> Actor List fetched from  DB
+2024-02-21T17:12:32.678+05:30  INFO 18508 --- [http-nio-8086-exec-2] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside getActorList() ---------------->
+2024-02-21T17:12:32.679+05:30  INFO 18508 --- [http-nio-8086-exec-2] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside saveActor() ----------------> Actor List fetched from  DB
+2024-02-21T17:12:36.580+05:30  INFO 18508 --- [http-nio-8086-exec-3] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside getActorList() ---------------->
+2024-02-21T17:12:36.582+05:30  INFO 18508 --- [http-nio-8086-exec-3] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside saveActor() ----------------> Actor List fetched from  DB
+2024-02-21T17:12:38.434+05:30  INFO 18508 --- [http-nio-8086-exec-4] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside getActorList() ---------------->
+2024-02-21T17:12:38.436+05:30  INFO 18508 --- [http-nio-8086-exec-4] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside saveActor() ----------------> Actor List fetched from  DB
+2024-02-21T17:12:56.686+05:30  INFO 18508 --- [http-nio-8086-exec-5] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside fetchMoviesList() ---------------->
+2024-02-21T17:14:27.225+05:30  INFO 18508 --- [http-nio-8086-exec-7] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside getActorList() ---------------->
+2024-02-21T17:14:27.228+05:30  INFO 18508 --- [http-nio-8086-exec-7] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside saveActor() ----------------> Actor List fetched from  DB
+2024-02-21T17:14:30.988+05:30  INFO 18508 --- [http-nio-8086-exec-8] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside getActorList() ---------------->
+2024-02-21T17:14:30.990+05:30  INFO 18508 --- [http-nio-8086-exec-8] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside saveActor() ----------------> Actor List fetched from  DB
+2024-02-21T17:14:36.993+05:30  INFO 18508 --- [http-nio-8086-exec-9] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside fetchMoviesList() ---------------->
+2024-02-21T17:14:57.290+05:30  INFO 18508 --- [http-nio-8086-exec-10] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside getActorList() ---------------->
+2024-02-21T17:14:57.293+05:30  INFO 18508 --- [http-nio-8086-exec-10] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside saveActor() ----------------> Actor List fetched from  DB
+2024-02-21T17:15:02.551+05:30  INFO 18508 --- [http-nio-8086-exec-1] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside fetchMoviesList() ---------------->
+2024-02-21T17:15:13.061+05:30  INFO 18508 --- [http-nio-8086-exec-2] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside getActorList() ---------------->
+2024-02-21T17:15:13.063+05:30  INFO 18508 --- [http-nio-8086-exec-2] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside saveActor() ----------------> Actor List fetched from  DB
+2024-02-21T17:15:16.238+05:30  INFO 18508 --- [http-nio-8086-exec-3] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside getActorList() ---------------->
+2024-02-21T17:15:16.240+05:30  INFO 18508 --- [http-nio-8086-exec-3] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside saveActor() ----------------> Actor List fetched from  DB
+2024-02-21T17:15:17.732+05:30  INFO 18508 --- [http-nio-8086-exec-4] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside getActorList() ---------------->
+2024-02-21T17:15:17.734+05:30  INFO 18508 --- [http-nio-8086-exec-4] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside saveActor() ----------------> Actor List fetched from  DB
+2024-02-21T17:15:21.396+05:30  INFO 18508 --- [http-nio-8086-exec-5] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside getActorList() ---------------->
+2024-02-21T17:15:21.397+05:30  INFO 18508 --- [http-nio-8086-exec-5] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside saveActor() ----------------> Actor List fetched from  DB
+2024-02-21T17:15:24.765+05:30  INFO 18508 --- [http-nio-8086-exec-6] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside getActorList() ---------------->
+2024-02-21T17:15:24.766+05:30  INFO 18508 --- [http-nio-8086-exec-6] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside saveActor() ----------------> Actor List fetched from  DB
+2024-02-21T17:15:49.822+05:30  INFO 18508 --- [http-nio-8086-exec-7] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside getActorList() ---------------->
+2024-02-21T17:15:49.825+05:30  INFO 18508 --- [http-nio-8086-exec-7] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside saveActor() ----------------> Actor List fetched from  DB
+2024-02-21T17:16:36.747+05:30  INFO 18508 --- [http-nio-8086-exec-8] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside getActorList() ---------------->
+2024-02-21T17:16:36.749+05:30  INFO 18508 --- [http-nio-8086-exec-8] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside saveActor() ----------------> Actor List fetched from  DB
+2024-02-21T17:17:34.250+05:30  INFO 18508 --- [http-nio-8086-exec-9] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside getActorList() ---------------->
+2024-02-21T17:17:34.252+05:30  INFO 18508 --- [http-nio-8086-exec-9] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside saveActor() ----------------> Actor List fetched from  DB
+2024-02-21T17:17:49.749+05:30  INFO 18508 --- [http-nio-8086-exec-10] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside getActorList() ---------------->
+2024-02-21T17:17:49.752+05:30  INFO 18508 --- [http-nio-8086-exec-10] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside saveActor() ----------------> Actor List fetched from  DB
+2024-02-21T17:17:57.916+05:30  INFO 18508 --- [http-nio-8086-exec-1] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside fetchMoviesList() ---------------->
+2024-02-21T17:18:21.967+05:30  INFO 18508 --- [http-nio-8086-exec-2] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside getActorList() ---------------->
+2024-02-21T17:18:21.968+05:30  INFO 18508 --- [http-nio-8086-exec-2] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside saveActor() ----------------> Actor List fetched from  DB
+2024-02-21T17:18:27.454+05:30  INFO 18508 --- [http-nio-8086-exec-3] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside fetchMoviesList() ---------------->
+2024-02-21T17:30:34.417+05:30  INFO 18508 --- [http-nio-8086-exec-5] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside getActorList() ---------------->
+2024-02-21T17:30:34.420+05:30  INFO 18508 --- [http-nio-8086-exec-5] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside saveActor() ----------------> Actor List fetched from  DB
+2024-02-21T17:32:12.570+05:30  INFO 18508 --- [http-nio-8086-exec-7] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside getActorList() ---------------->
+2024-02-21T17:32:12.572+05:30  INFO 18508 --- [http-nio-8086-exec-7] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside saveActor() ----------------> Actor List fetched from  DB
+2024-02-21T17:32:16.956+05:30  INFO 18508 --- [http-nio-8086-exec-8] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside getActorList() ---------------->
+2024-02-21T17:32:16.957+05:30  INFO 18508 --- [http-nio-8086-exec-8] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside saveActor() ----------------> Actor List fetched from  DB
+2024-02-21T17:32:21.832+05:30  INFO 18508 --- [http-nio-8086-exec-9] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside getActorList() ---------------->
+2024-02-21T17:32:21.833+05:30  INFO 18508 --- [http-nio-8086-exec-9] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside saveActor() ----------------> Actor List fetched from  DB
+2024-02-21T17:32:24.582+05:30  INFO 18508 --- [http-nio-8086-exec-10] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside getActorList() ---------------->
+2024-02-21T17:32:24.584+05:30  INFO 18508 --- [http-nio-8086-exec-10] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside saveActor() ----------------> Actor List fetched from  DB
+2024-02-21T17:34:14.821+05:30  INFO 18508 --- [http-nio-8086-exec-2] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside getActorList() ---------------->
+2024-02-21T17:34:14.823+05:30  INFO 18508 --- [http-nio-8086-exec-2] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside saveActor() ----------------> Actor List fetched from  DB
+2024-02-21T17:34:20.936+05:30  INFO 18508 --- [http-nio-8086-exec-3] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside fetchMoviesList() ---------------->
+2024-02-21T17:34:45.541+05:30  INFO 18508 --- [http-nio-8086-exec-4] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside getActorList() ---------------->
+2024-02-21T17:34:45.543+05:30  INFO 18508 --- [http-nio-8086-exec-4] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside saveActor() ----------------> Actor List fetched from  DB
+2024-02-21T17:34:50.091+05:30  INFO 18508 --- [http-nio-8086-exec-5] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside fetchMoviesList() ---------------->
+2024-02-21T17:34:57.957+05:30  INFO 18508 --- [http-nio-8086-exec-6] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside fetchMoviesList() ---------------->
+2024-02-21T17:34:59.764+05:30  INFO 18508 --- [http-nio-8086-exec-7] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside fetchMoviesList() ---------------->
+2024-02-21T17:35:03.368+05:30  INFO 18508 --- [http-nio-8086-exec-8] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside fetchMoviesList() ---------------->
+2024-02-21T17:35:06.839+05:30  INFO 18508 --- [http-nio-8086-exec-9] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside fetchMoviesList() ---------------->
+2024-02-21T17:35:07.609+05:30  INFO 18508 --- [http-nio-8086-exec-10] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside fetchMoviesList() ---------------->
+2024-02-21T17:35:07.782+05:30  INFO 18508 --- [http-nio-8086-exec-1] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside fetchMoviesList() ---------------->
+2024-02-21T17:35:08.003+05:30  INFO 18508 --- [http-nio-8086-exec-2] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside fetchMoviesList() ---------------->
+2024-02-21T17:35:12.527+05:30  INFO 18508 --- [http-nio-8086-exec-3] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside fetchMoviesList() ---------------->
+2024-02-21T17:35:15.447+05:30  INFO 18508 --- [http-nio-8086-exec-4] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside fetchMoviesList() ---------------->
+2024-02-21T17:35:20.220+05:30  INFO 18508 --- [http-nio-8086-exec-5] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside fetchMoviesList() ---------------->
+2024-02-21T17:35:21.157+05:30  INFO 18508 --- [http-nio-8086-exec-6] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside fetchMoviesList() ---------------->
+2024-02-21T17:35:21.414+05:30  INFO 18508 --- [http-nio-8086-exec-7] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside fetchMoviesList() ---------------->
+2024-02-21T17:35:21.642+05:30  INFO 18508 --- [http-nio-8086-exec-8] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside fetchMoviesList() ---------------->
+2024-02-21T17:35:47.136+05:30  INFO 18508 --- [http-nio-8086-exec-9] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside getActorList() ---------------->
+2024-02-21T17:35:47.139+05:30  INFO 18508 --- [http-nio-8086-exec-9] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside saveActor() ----------------> Actor List fetched from  DB
+2024-02-21T17:35:50.614+05:30  INFO 18508 --- [http-nio-8086-exec-10] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside fetchMoviesList() ---------------->
+2024-02-21T17:35:54.330+05:30  INFO 18508 --- [http-nio-8086-exec-1] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside fetchMoviesList() ---------------->
+2024-02-21T17:35:58.430+05:30  INFO 18508 --- [http-nio-8086-exec-2] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside fetchMoviesList() ---------------->
+2024-02-21T17:36:23.655+05:30  INFO 18508 --- [http-nio-8086-exec-3] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside getActorList() ---------------->
+2024-02-21T17:36:23.657+05:30  INFO 18508 --- [http-nio-8086-exec-3] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside saveActor() ----------------> Actor List fetched from  DB
+2024-02-21T17:36:27.696+05:30  INFO 18508 --- [http-nio-8086-exec-4] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside getActorList() ---------------->
+2024-02-21T17:36:27.702+05:30  INFO 18508 --- [http-nio-8086-exec-4] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside saveActor() ----------------> Actor List fetched from  DB
+2024-02-21T17:47:09.559+05:30  INFO 18508 --- [http-nio-8086-exec-6] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside getActorList() ---------------->
+2024-02-21T17:47:09.565+05:30  INFO 18508 --- [http-nio-8086-exec-6] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside saveActor() ----------------> Actor List fetched from  DB
+2024-02-21T17:47:30.634+05:30  INFO 18508 --- [http-nio-8086-exec-7] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside getActorList() ---------------->
+2024-02-21T17:47:30.635+05:30  INFO 18508 --- [http-nio-8086-exec-7] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside saveActor() ----------------> Actor List fetched from  DB
+2024-02-21T17:47:45.616+05:30  INFO 18508 --- [http-nio-8086-exec-8] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside getActorList() ---------------->
+2024-02-21T17:47:45.617+05:30  INFO 18508 --- [http-nio-8086-exec-8] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside saveActor() ----------------> Actor List fetched from  DB
+2024-02-21T17:48:50.918+05:30  INFO 18508 --- [http-nio-8086-exec-10] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside getActorList() ---------------->
+2024-02-21T17:48:50.921+05:30  INFO 18508 --- [http-nio-8086-exec-10] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside saveActor() ----------------> Actor List fetched from  DB
+2024-02-21T17:49:02.185+05:30  INFO 18508 --- [http-nio-8086-exec-1] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside getActorList() ---------------->
+2024-02-21T17:49:02.186+05:30  INFO 18508 --- [http-nio-8086-exec-1] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside saveActor() ----------------> Actor List fetched from  DB
+2024-02-21T17:49:44.761+05:30  INFO 18508 --- [http-nio-8086-exec-2] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside getActorList() ---------------->
+2024-02-21T17:49:44.762+05:30  INFO 18508 --- [http-nio-8086-exec-2] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside saveActor() ----------------> Actor List fetched from  DB
+2024-02-21T17:49:54.685+05:30  INFO 18508 --- [http-nio-8086-exec-3] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside getActorList() ---------------->
+2024-02-21T17:49:54.687+05:30  INFO 18508 --- [http-nio-8086-exec-3] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside saveActor() ----------------> Actor List fetched from  DB
+2024-02-21T17:51:18.734+05:30  INFO 18508 --- [http-nio-8086-exec-5] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside getActorList() ---------------->
+2024-02-21T17:51:18.735+05:30  INFO 18508 --- [http-nio-8086-exec-5] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside saveActor() ----------------> Actor List fetched from  DB
+2024-02-21T17:51:44.427+05:30  INFO 18508 --- [http-nio-8086-exec-6] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside getActorList() ---------------->
+2024-02-21T17:51:44.428+05:30  INFO 18508 --- [http-nio-8086-exec-6] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside saveActor() ----------------> Actor List fetched from  DB
+2024-02-21T17:51:58.821+05:30  INFO 18508 --- [http-nio-8086-exec-7] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside getActorList() ---------------->
+2024-02-21T17:51:58.826+05:30  INFO 18508 --- [http-nio-8086-exec-7] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside saveActor() ----------------> Actor List fetched from  DB
+2024-02-21T17:52:04.639+05:30  INFO 18508 --- [http-nio-8086-exec-8] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside getActorList() ---------------->
+2024-02-21T17:52:04.641+05:30  INFO 18508 --- [http-nio-8086-exec-8] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside saveActor() ----------------> Actor List fetched from  DB
+2024-02-21T17:52:07.840+05:30  INFO 18508 --- [http-nio-8086-exec-9] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside getActorList() ---------------->
+2024-02-21T17:52:07.842+05:30  INFO 18508 --- [http-nio-8086-exec-9] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside saveActor() ----------------> Actor List fetched from  DB
+2024-02-21T17:52:48.306+05:30  INFO 18508 --- [http-nio-8086-exec-10] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside getActorList() ---------------->
+2024-02-21T17:52:48.309+05:30  INFO 18508 --- [http-nio-8086-exec-10] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside saveActor() ----------------> Actor List fetched from  DB
+2024-02-21T17:53:11.501+05:30  INFO 18508 --- [http-nio-8086-exec-1] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside getActorList() ---------------->
+2024-02-21T17:53:11.504+05:30  INFO 18508 --- [http-nio-8086-exec-1] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside saveActor() ----------------> Actor List fetched from  DB
+2024-02-21T17:53:43.177+05:30  INFO 18508 --- [http-nio-8086-exec-2] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside getActorList() ---------------->
+2024-02-21T17:53:43.179+05:30  INFO 18508 --- [http-nio-8086-exec-2] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside saveActor() ----------------> Actor List fetched from  DB
+2024-02-21T17:53:49.641+05:30  INFO 18508 --- [http-nio-8086-exec-3] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside getActorList() ---------------->
+2024-02-21T17:53:49.643+05:30  INFO 18508 --- [http-nio-8086-exec-3] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside saveActor() ----------------> Actor List fetched from  DB
+2024-02-21T17:54:07.971+05:30  INFO 18508 --- [http-nio-8086-exec-4] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside getActorList() ---------------->
+2024-02-21T17:54:07.973+05:30  INFO 18508 --- [http-nio-8086-exec-4] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside saveActor() ----------------> Actor List fetched from  DB
+2024-02-21T17:54:23.910+05:30  INFO 18508 --- [http-nio-8086-exec-5] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside getActorList() ---------------->
+2024-02-21T17:54:23.911+05:30  INFO 18508 --- [http-nio-8086-exec-5] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside saveActor() ----------------> Actor List fetched from  DB
+2024-02-21T17:54:39.517+05:30  INFO 18508 --- [http-nio-8086-exec-6] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside getActorList() ---------------->
+2024-02-21T17:54:39.519+05:30  INFO 18508 --- [http-nio-8086-exec-6] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside saveActor() ----------------> Actor List fetched from  DB
+2024-02-21T17:54:45.441+05:30  INFO 18508 --- [http-nio-8086-exec-7] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside getActorList() ---------------->
+2024-02-21T17:54:45.442+05:30  INFO 18508 --- [http-nio-8086-exec-7] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside saveActor() ----------------> Actor List fetched from  DB
+2024-02-21T17:54:52.186+05:30  INFO 18508 --- [http-nio-8086-exec-8] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside getActorList() ---------------->
+2024-02-21T17:54:52.187+05:30  INFO 18508 --- [http-nio-8086-exec-8] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside saveActor() ----------------> Actor List fetched from  DB
+2024-02-21T17:54:53.628+05:30  INFO 18508 --- [http-nio-8086-exec-9] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside getActorList() ---------------->
+2024-02-21T17:54:53.630+05:30  INFO 18508 --- [http-nio-8086-exec-9] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside saveActor() ----------------> Actor List fetched from  DB
+2024-02-21T17:54:54.643+05:30  INFO 18508 --- [http-nio-8086-exec-10] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside getActorList() ---------------->
+2024-02-21T17:54:54.645+05:30  INFO 18508 --- [http-nio-8086-exec-10] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside saveActor() ----------------> Actor List fetched from  DB
+2024-02-21T17:54:55.988+05:30  INFO 18508 --- [http-nio-8086-exec-1] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside getActorList() ---------------->
+2024-02-21T17:54:55.990+05:30  INFO 18508 --- [http-nio-8086-exec-1] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside saveActor() ----------------> Actor List fetched from  DB
+2024-02-21T17:55:35.075+05:30  INFO 18508 --- [http-nio-8086-exec-2] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside getActorList() ---------------->
+2024-02-21T17:55:35.077+05:30  INFO 18508 --- [http-nio-8086-exec-2] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside saveActor() ----------------> Actor List fetched from  DB
+2024-02-21T17:55:43.641+05:30  INFO 18508 --- [http-nio-8086-exec-3] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside getActorList() ---------------->
+2024-02-21T17:55:43.644+05:30  INFO 18508 --- [http-nio-8086-exec-3] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside saveActor() ----------------> Actor List fetched from  DB
+2024-02-21T17:55:45.459+05:30  INFO 18508 --- [http-nio-8086-exec-4] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside getActorList() ---------------->
+2024-02-21T17:55:45.460+05:30  INFO 18508 --- [http-nio-8086-exec-4] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside saveActor() ----------------> Actor List fetched from  DB
+2024-02-21T17:55:48.381+05:30  INFO 18508 --- [http-nio-8086-exec-5] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside getActorList() ---------------->
+2024-02-21T17:55:48.383+05:30  INFO 18508 --- [http-nio-8086-exec-5] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside saveActor() ----------------> Actor List fetched from  DB
+2024-02-21T17:56:00.190+05:30  INFO 18508 --- [http-nio-8086-exec-6] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside getActorList() ---------------->
+2024-02-21T17:56:00.194+05:30  INFO 18508 --- [http-nio-8086-exec-6] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside saveActor() ----------------> Actor List fetched from  DB
+2024-02-21T17:56:13.387+05:30  INFO 18508 --- [http-nio-8086-exec-7] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside getActorList() ---------------->
+2024-02-21T17:56:13.389+05:30  INFO 18508 --- [http-nio-8086-exec-7] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside saveActor() ----------------> Actor List fetched from  DB
+2024-02-21T17:56:27.980+05:30  INFO 18508 --- [http-nio-8086-exec-8] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside getActorList() ---------------->
+2024-02-21T17:56:27.982+05:30  INFO 18508 --- [http-nio-8086-exec-8] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside saveActor() ----------------> Actor List fetched from  DB
+2024-02-21T17:57:03.044+05:30  INFO 18508 --- [http-nio-8086-exec-9] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside getActorList() ---------------->
+2024-02-21T17:57:03.047+05:30  INFO 18508 --- [http-nio-8086-exec-9] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside saveActor() ----------------> Actor List fetched from  DB
+2024-02-21T17:57:08.726+05:30  INFO 18508 --- [http-nio-8086-exec-10] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside getActorList() ---------------->
+2024-02-21T17:57:08.730+05:30  INFO 18508 --- [http-nio-8086-exec-10] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside saveActor() ----------------> Actor List fetched from  DB
+2024-02-21T17:57:18.245+05:30  INFO 18508 --- [http-nio-8086-exec-1] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside getActorList() ---------------->
+2024-02-21T17:57:18.247+05:30  INFO 18508 --- [http-nio-8086-exec-1] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside saveActor() ----------------> Actor List fetched from  DB
+2024-02-21T17:57:52.654+05:30  INFO 18508 --- [http-nio-8086-exec-2] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside getActorList() ---------------->
+2024-02-21T17:57:52.656+05:30  INFO 18508 --- [http-nio-8086-exec-2] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside saveActor() ----------------> Actor List fetched from  DB
+2024-02-21T17:58:05.008+05:30  INFO 18508 --- [http-nio-8086-exec-3] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside getActorList() ---------------->
+2024-02-21T17:58:05.010+05:30  INFO 18508 --- [http-nio-8086-exec-3] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside saveActor() ----------------> Actor List fetched from  DB
+2024-02-21T17:59:32.843+05:30  INFO 18508 --- [http-nio-8086-exec-5] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside getActorList() ---------------->
+2024-02-21T17:59:32.845+05:30  INFO 18508 --- [http-nio-8086-exec-5] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside saveActor() ----------------> Actor List fetched from  DB
+2024-02-21T17:59:53.471+05:30  INFO 18508 --- [http-nio-8086-exec-6] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside getActorList() ---------------->
+2024-02-21T17:59:53.474+05:30  INFO 18508 --- [http-nio-8086-exec-6] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside saveActor() ----------------> Actor List fetched from  DB
+2024-02-21T18:00:06.465+05:30  INFO 18508 --- [http-nio-8086-exec-7] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside getActorList() ---------------->
+2024-02-21T18:00:06.467+05:30  INFO 18508 --- [http-nio-8086-exec-7] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside saveActor() ----------------> Actor List fetched from  DB
+2024-02-21T18:01:22.418+05:30  INFO 18508 --- [http-nio-8086-exec-9] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside getActorList() ---------------->
+2024-02-21T18:01:22.420+05:30  INFO 18508 --- [http-nio-8086-exec-9] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside saveActor() ----------------> Actor List fetched from  DB
+2024-02-21T18:02:24.849+05:30  INFO 18508 --- [http-nio-8086-exec-1] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside getActorList() ---------------->
+2024-02-21T18:02:24.852+05:30  INFO 18508 --- [http-nio-8086-exec-1] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside saveActor() ----------------> Actor List fetched from  DB
+2024-02-21T18:02:35.925+05:30  INFO 18508 --- [http-nio-8086-exec-2] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside getActorList() ---------------->
+2024-02-21T18:02:35.927+05:30  INFO 18508 --- [http-nio-8086-exec-2] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside saveActor() ----------------> Actor List fetched from  DB
+2024-02-21T18:03:37.525+05:30  INFO 18508 --- [http-nio-8086-exec-4] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside getActorList() ---------------->
+2024-02-21T18:03:37.527+05:30  INFO 18508 --- [http-nio-8086-exec-4] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside saveActor() ----------------> Actor List fetched from  DB
+2024-02-21T18:04:00.589+05:30  INFO 18508 --- [http-nio-8086-exec-5] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside getActorList() ---------------->
+2024-02-21T18:04:00.590+05:30  INFO 18508 --- [http-nio-8086-exec-5] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside saveActor() ----------------> Actor List fetched from  DB
+2024-02-21T18:04:35.235+05:30  INFO 18508 --- [http-nio-8086-exec-6] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside getActorList() ---------------->
+2024-02-21T18:04:35.246+05:30  INFO 18508 --- [http-nio-8086-exec-6] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside saveActor() ----------------> Actor List fetched from  DB
+2024-02-21T18:04:39.425+05:30  INFO 18508 --- [http-nio-8086-exec-7] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside getActorList() ---------------->
+2024-02-21T18:04:39.427+05:30  INFO 18508 --- [http-nio-8086-exec-7] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside saveActor() ----------------> Actor List fetched from  DB
+2024-02-21T18:05:01.527+05:30  INFO 18508 --- [http-nio-8086-exec-8] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside getActorList() ---------------->
+2024-02-21T18:05:01.528+05:30  INFO 18508 --- [http-nio-8086-exec-8] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside saveActor() ----------------> Actor List fetched from  DB
+2024-02-21T18:13:31.462+05:30  INFO 18508 --- [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-02-21T18:13:31.522+05:30  INFO 18508 --- [Thread-5] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-02-21T18:13:31.530+05:30  WARN 18508 --- [Thread-5] o.s.b.f.support.DisposableBeanAdapter    : Invocation of destroy method failed on bean with name 'inMemoryDatabaseShutdownExecutor': org.h2.jdbc.JdbcSQLNonTransientConnectionException: Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-224]
+2024-02-21T18:13:31.531+05:30  INFO 18508 --- [Thread-5] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2024-02-21T18:13:31.532+05:30  INFO 18508 --- [Thread-5] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2024-02-21T18:13:31.639+05:30  INFO 18508 --- [restartedMain] com.poc.actor.ActorApplication           : Starting ActorApplication using Java 17.0.1 with PID 18508 (C:\Users\1925575\Documents\actor\actor\target\classes started by 1925575 in C:\Users\1925575\Documents\actor\actor)
+2024-02-21T18:13:31.640+05:30  INFO 18508 --- [restartedMain] com.poc.actor.ActorApplication           : No active profile set, falling back to 1 default profile: "default"
+2024-02-21T18:13:31.917+05:30  INFO 18508 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-02-21T18:13:31.934+05:30  INFO 18508 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 16 ms. Found 2 JPA repository interfaces.
+2024-02-21T18:13:32.104+05:30  INFO 18508 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8086 (http)
+2024-02-21T18:13:32.108+05:30  INFO 18508 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-02-21T18:13:32.108+05:30  INFO 18508 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.17]
+2024-02-21T18:13:32.145+05:30  INFO 18508 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-02-21T18:13:32.146+05:30  INFO 18508 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 502 ms
+2024-02-21T18:13:32.160+05:30  INFO 18508 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Starting...
+2024-02-21T18:13:32.163+05:30  INFO 18508 --- [restartedMain] com.zaxxer.hikari.pool.HikariPool        : HikariPool-2 - Added connection conn30: url=jdbc:h2:mem:xplab-poc user=SA
+2024-02-21T18:13:32.163+05:30  INFO 18508 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Start completed.
+2024-02-21T18:13:32.163+05:30  INFO 18508 --- [restartedMain] o.s.b.a.h2.H2ConsoleAutoConfiguration    : H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:xplab-poc'
+2024-02-21T18:13:32.190+05:30  INFO 18508 --- [restartedMain] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-02-21T18:13:32.195+05:30  INFO 18508 --- [restartedMain] o.h.c.internal.RegionFactoryInitiator    : HHH000026: Second-level cache disabled
+2024-02-21T18:13:32.200+05:30  INFO 18508 --- [restartedMain] o.s.o.j.p.SpringPersistenceUnitInfo      : No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-02-21T18:13:32.270+05:30  INFO 18508 --- [restartedMain] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-02-21T18:13:32.276+05:30  INFO 18508 --- [restartedMain] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-02-21T18:13:32.399+05:30  WARN 18508 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-02-21T18:13:33.167+05:30  INFO 18508 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-02-21T18:13:33.183+05:30  INFO 18508 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8086 (http) with context path ''
+2024-02-21T18:13:33.190+05:30  INFO 18508 --- [restartedMain] com.poc.actor.ActorApplication           : Started ActorApplication in 1.602 seconds (process running for 3678.235)
+2024-02-21T18:13:33.193+05:30  INFO 18508 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2024-02-21T18:16:04.752+05:30  INFO 18508 --- [http-nio-8086-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-02-21T18:16:04.754+05:30  INFO 18508 --- [http-nio-8086-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-02-21T18:16:04.755+05:30  INFO 18508 --- [http-nio-8086-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2024-02-21T18:16:04.758+05:30  INFO 18508 --- [http-nio-8086-exec-1] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside getActorList() ---------------->
+2024-02-21T18:16:04.762+05:30  INFO 18508 --- [http-nio-8086-exec-1] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside saveActor() ----------------> Actor List fetched from  DB
+2024-02-21T19:31:35.755+05:30  INFO 18508 --- [http-nio-8086-exec-3] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside getActorList() ---------------->
+2024-02-21T19:31:35.759+05:30  INFO 18508 --- [http-nio-8086-exec-3] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside saveActor() ----------------> Actor List fetched from  DB
+2024-02-21T19:31:38.366+05:30  INFO 18508 --- [http-nio-8086-exec-4] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside getActorList() ---------------->
+2024-02-21T19:31:38.368+05:30  INFO 18508 --- [http-nio-8086-exec-4] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside saveActor() ----------------> Actor List fetched from  DB
+2024-02-21T19:31:39.510+05:30  INFO 18508 --- [http-nio-8086-exec-5] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside getActorList() ---------------->
+2024-02-21T19:31:39.511+05:30  INFO 18508 --- [http-nio-8086-exec-5] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside saveActor() ----------------> Actor List fetched from  DB
+2024-02-21T19:31:45.289+05:30  INFO 18508 --- [http-nio-8086-exec-6] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside getActorList() ---------------->
+2024-02-21T19:31:45.292+05:30  INFO 18508 --- [http-nio-8086-exec-6] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside saveActor() ----------------> Actor List fetched from  DB
+2024-02-21T19:31:47.114+05:30  INFO 18508 --- [http-nio-8086-exec-7] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside getActorList() ---------------->
+2024-02-21T19:31:47.115+05:30  INFO 18508 --- [http-nio-8086-exec-7] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside saveActor() ----------------> Actor List fetched from  DB
+2024-02-21T19:31:48.387+05:30  INFO 18508 --- [http-nio-8086-exec-8] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside getActorList() ---------------->
+2024-02-21T19:31:48.389+05:30  INFO 18508 --- [http-nio-8086-exec-8] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside saveActor() ----------------> Actor List fetched from  DB
+2024-02-21T19:35:06.105+05:30  INFO 18508 --- [http-nio-8086-exec-10] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside getActorList() ---------------->
+2024-02-21T19:35:06.110+05:30  INFO 18508 --- [http-nio-8086-exec-10] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside saveActor() ----------------> Actor List fetched from  DB
+2024-02-21T19:35:08.452+05:30  INFO 18508 --- [http-nio-8086-exec-1] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside getActorList() ---------------->
+2024-02-21T19:35:08.456+05:30  INFO 18508 --- [http-nio-8086-exec-1] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside saveActor() ----------------> Actor List fetched from  DB
+2024-02-21T19:35:10.197+05:30  INFO 18508 --- [http-nio-8086-exec-2] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside getActorList() ---------------->
+2024-02-21T19:35:10.199+05:30  INFO 18508 --- [http-nio-8086-exec-2] c.p.actor.ServiceImpl.ActorServiceImpl   : Inside saveActor() ----------------> Actor List fetched from  DB
+2024-02-21T19:35:53.343+05:30  WARN 18508 --- [HikariPool-2 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=49s882ms612µs300ns).
